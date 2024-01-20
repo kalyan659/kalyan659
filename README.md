@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kalyanbrat Medhi
-- 👀 I’m interested in Artificial Intelligence.
-- 🌱 I’m currently learning dataextraction from OCR
+- 👀 I’m interested in Artificial Intelligence, Data Science.
+- 🎿 My Skill: Python, Pytorch, Tensorflow, deep learning, Numpy, Pandas, GCP, AWS
 - 📫 How to reach me https://in.linkedin.com/in/dr-kalyanbrat-medhi-9112211b
 
 <!---
