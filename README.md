@@ -1,6 +1,14 @@
 - 👋 Hi, I’m Kalyanbrat Medhi
 - 👀 I’m interested in Artificial Intelligence, Data Science.
-- 🎿 My Skill: Python, Pytorch, Tensorflow, deep learning, Numpy, Pandas, GCP, AWS
+- 🎿 My Skill:
+- Deep Learning: CNN, RNN, LSTM, Transformers
+- Machine Learning: Linear/Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost
+- Generative AI: Large Language Models (LLM), BERT, GPT, Falcon
+- Frameworks: TensorFlow, PyTorch, Keras
+- Data Analysis and Visualization: Python, Pandas, SQL, Seaborn, Matplotlib.
+- Others: NLTK, Spacy, Textblob, Chatterbot, Beautiful soup, Numpy, SciPy, Opencv, Skimage, Tkinter,
+Streamlit, Scikit-Learn, Regression, Classification, Statistical model, Transfer learning, Fine tuning, Azure,
+GCP, Clustering
 - 📫 How to reach me https://in.linkedin.com/in/dr-kalyanbrat-medhi-9112211b
 
 <!---
