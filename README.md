@@ -3,7 +3,7 @@
 - 🎿 My Skill:
 - Deep Learning: CNN, RNN, LSTM, Transformers
 - Machine Learning: Linear/Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost
-- Generative AI: Large Language Models (LLM), BERT, GPT, Falcon
+- Generative AI: Large Language Models (LLM), BERT, GPT, Falcon, SFT, RAG
 - Frameworks: TensorFlow, PyTorch, Keras
 - Data Analysis and Visualization: Python, Pandas, SQL, Seaborn, Matplotlib.
 - Others: NLTK, Spacy, Textblob, Chatterbot, Beautiful soup, Numpy, SciPy, Opencv, Skimage, Tkinter,
