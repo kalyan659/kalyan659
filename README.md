@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kalyanbrat Medhi
-- 👀 I’m interested in Artificial Intelligence, Data Science.
+- 👀 I’m interested in Artificial Intelligence, Machine Learning, Data Science.
 - 🎿 My Skill:
 - Deep Learning: CNN, RNN, LSTM, Transformers
 - Machine Learning: Linear/Logistic Regression, Decision Trees, Random Forest, SVM, XGBoost
