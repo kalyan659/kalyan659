@@ -8,7 +8,7 @@
 - Data Analysis and Visualization: Python, Pandas, SQL, Seaborn, Matplotlib.
 - Others: NLTK, Spacy, Textblob, Chatterbot, Beautiful soup, Numpy, SciPy, Opencv, Skimage, Tkinter,
 Streamlit, Scikit-Learn, Regression, Classification, Statistical model, Transfer learning, Fine tuning, Azure,
-GCP, Clustering, Face Recognition, Car number plate recognition, OCR, OLLMA, Salenium, Speech Recognition, Docker, Kubernetes, Linux
+GCP, Clustering, Face Recognition, Car number plate recognition, OCR, OLLAMA, Salenium, Speech Recognition, Docker, Kubernetes, Linux
 - 📫 How to reach me https://in.linkedin.com/in/dr-kalyanbrat-medhi-9112211b
 
 <!---
